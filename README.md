@@ -2,6 +2,8 @@
 
 This project is used to practice Git and GitHub collaboration workflows.
 
+
+Improvement in doc
 ## How to contribute
 - Open an issue
 - Create a branch
